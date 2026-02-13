@@ -92,6 +92,16 @@ Nexus Mods Link: https://www.nexusmods.com/mountandblade2bannerlord/mods/3066?ta
 The code is included in the folder AdditionalQuestsCode (including solution for visual studio)
 You will need to redo the references based on where you installed Bannerlord
 
+**Building for v1.3.14:**
+1. Ensure you have Bannerlord v1.3.14 installed
+2. Update the `GameFolder` path in `AdditionalQuestsCode.csproj` to point to your Bannerlord installation
+3. Compile the project using Visual Studio or MSBuild
+4. The compiled DLL will be placed in the `bin/Win64_Shipping_Client` folder
+
+**Dependencies:**
+- Bannerlord.MCM v5.0.0 or higher (compatible with v1.3.14)
+- Ensure you have the latest versions of MCM's dependencies (Harmony, ButterLib, UIExtenderEx)
+
 
 
 # Saving Issue + Quest data
