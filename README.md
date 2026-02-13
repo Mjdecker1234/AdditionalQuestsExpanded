@@ -3,6 +3,8 @@
 ## Mod Information
 Nexus Mods Link: https://www.nexusmods.com/mountandblade2bannerlord/mods/3066?tab=description&BH=0
 
+**Current Version:** v1.3.0 - Updated for Bannerlord v1.3.14
+
 ## Implemented Quests
 ### Town Quests:
     - {Settlement} Needs Food
